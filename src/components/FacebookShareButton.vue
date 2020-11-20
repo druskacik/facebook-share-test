@@ -1,7 +1,7 @@
 <template>
   <ShareNetwork
     network="facebook"
-    url="https://druskacik.sk/"
+    url="https://iep-stranka.vercel.app/"
     title="testujeme facebook share"
     description="popisok nejaký."
     quote="neviem čo toto chce byť"
